@@ -1,6 +1,6 @@
 {
   "workflow_name": "怪兽茶研社五页漫画工作流",
-  "version": "1.0",
+  "version": "2.0",
   "saved_date": "2026-10-12",
   "timezone": "Asia/Shanghai",
   "page_order": [
@@ -12,7 +12,7 @@
   ],
   "visual_preferences": {
     "aspect_ratio": "3:4",
-    "mascot": "黑色怪兽，稍扁平漫画风，清楚轮廓，减少绒毛及立体阴影",
+    "mascot": "以最新五张标准图中的圆润黑色漫画厨师怪兽为准，白帽白围裙，清楚轮廓与少量阴影",
     "cup": "透明外带杯，凸起透明饮口盖，杯身无任何文字或标志",
     "lemon": "绿皮香水柠檬，果肉淡黄",
     "pitcher": "直筒刻度透明玻璃壶，大C形把手",
@@ -46,48 +46,91 @@
   "artifacts": [
     {
       "page": 1,
-      "file": "最新定稿/01-封面.png",
+      "file": "历史版本/v1/图片/01-封面.png",
       "source": "/workspace/generated_images/exec-8ea8073e-3714-49a0-9c8d-f52a4d96c04b.png",
       "width": 1086,
       "height": 1448,
       "bytes": 2540101,
-      "sha256": "80e5ae1b2053a9ed0d2d9ca091840ec044e0b684983fbeb4b318efa8852cf2d1"
+      "sha256": "80e5ae1b2053a9ed0d2d9ca091840ec044e0b684983fbeb4b318efa8852cf2d1",
+      "status": "历史版本，非2.0标准原文件"
     },
     {
       "page": 2,
-      "file": "最新定稿/02-原料准备.png",
+      "file": "历史版本/v1/图片/02-原料准备.png",
       "source": "/workspace/generated_images/exec-fe0a20e1-5e10-47fa-9c24-0a247246a7ff.png",
       "width": 1086,
       "height": 1448,
       "bytes": 2692553,
-      "sha256": "42ff7771f51ffb896516f375aaf7959c235a501c2d1409d7e8a1f4119ae7e6ff"
+      "sha256": "42ff7771f51ffb896516f375aaf7959c235a501c2d1409d7e8a1f4119ae7e6ff",
+      "status": "历史版本，非2.0标准原文件"
     },
     {
       "page": 3,
-      "file": "最新定稿/03-四步茶汤制作.png",
+      "file": "历史版本/v1/图片/03-四步茶汤制作.png",
       "source": "/workspace/generated_images/exec-1928f9f9-4527-446f-ae7d-a4a6fff31eec.png",
       "width": 1086,
       "height": 1448,
       "bytes": 2731364,
-      "sha256": "0d60a0e1fb8378ab5b075618326bdc05878afedd13a9b9b454d40dca01959617"
+      "sha256": "0d60a0e1fb8378ab5b075618326bdc05878afedd13a9b9b454d40dca01959617",
+      "status": "历史版本，非2.0标准原文件"
     },
     {
       "page": 4,
-      "file": "最新定稿/04-雪克动作.png",
+      "file": "历史版本/v1/图片/04-雪克动作.png",
       "source": "/workspace/generated_images/exec-ea79ec99-2d2b-4b29-bdb6-9eb70b0339f0.png",
       "width": 1086,
       "height": 1448,
       "bytes": 2780764,
-      "sha256": "10fd99ce8ca7e65c524a91d0ffe8d10ed6fdf9e6e0349f803bd541f98e104fc3"
+      "sha256": "10fd99ce8ca7e65c524a91d0ffe8d10ed6fdf9e6e0349f803bd541f98e104fc3",
+      "status": "历史版本，非2.0标准原文件"
     },
     {
       "page": 5,
-      "file": "最新定稿/05-成品收尾.png",
+      "file": "历史版本/v1/图片/05-成品收尾.png",
       "source": "/workspace/generated_images/exec-43cec168-a334-4390-b583-09f2bfdcd00e.png",
       "width": 1086,
       "height": 1448,
       "bytes": 2510956,
-      "sha256": "c79422daae2fbaaadf166009850a5883e153fcc465256a314d0a3db7f3f64cc9"
+      "sha256": "c79422daae2fbaaadf166009850a5883e153fcc465256a314d0a3db7f3f64cc9",
+      "status": "历史版本，非2.0标准原文件"
+    }
+  ],
+  "updated_date": "2026-10-12",
+  "reference_standards": [
+    {
+      "page": 1,
+      "user_filename": "封面.png",
+      "status": "已在聊天确认，原始PNG待导入",
+      "file": null,
+      "layout": "两行巨字、产品名条、左侧大杯、右侧举杯怪兽、前景小杯、对话框、爆炸贴；无制作小窗和比例条"
+    },
+    {
+      "page": 2,
+      "user_filename": "材料.png",
+      "status": "已在聊天确认，原始PNG待导入",
+      "file": null,
+      "layout": "热水、称茶、香水柠檬、冰块四区；清单、风味气泡与基底比例"
+    },
+    {
+      "page": 3,
+      "user_filename": "步骤.png",
+      "status": "已在聊天确认，原始PNG待导入",
+      "file": null,
+      "layout": "四格纵排、红底白字编号条、左侧操作、右侧怪兽提示"
+    },
+    {
+      "page": 4,
+      "user_filename": "雪克.png",
+      "status": "已在聊天确认，原始PNG待导入",
+      "file": null,
+      "layout": "双手雪克、运动箭头、左侧说明卡、右侧特写、拟声字、下方成品；无底部比例条"
+    },
+    {
+      "page": 5,
+      "user_filename": "封底.png",
+      "status": "已在聊天确认，原始PNG待导入",
+      "file": null,
+      "layout": "成品特写与卖点箭头、三格表情、左下双杯、右下四步配方卡、底部互动"
     }
   ]
 }
