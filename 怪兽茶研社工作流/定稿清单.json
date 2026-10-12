@@ -100,37 +100,69 @@
     {
       "page": 1,
       "user_filename": "封面.png",
-      "status": "已在聊天确认，原始PNG待导入",
-      "file": null,
-      "layout": "两行巨字、产品名条、左侧大杯、右侧举杯怪兽、前景小杯、对话框、爆炸贴；无制作小窗和比例条"
+      "status": "用户标准原图已原样保存",
+      "file": "标准原图/封面.png",
+      "layout": "两行巨字、产品名条、左侧大杯、右侧举杯怪兽、前景小杯、对话框、爆炸贴；无制作小窗和比例条",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2491279,
+      "sha256": "50a5819f9581aa1803b9c023b1ab045048b7850f16e60fc23dfd6e8fed78d315",
+      "provenance": "用户上传：茉莉绿茶.rar"
     },
     {
       "page": 2,
       "user_filename": "材料.png",
-      "status": "已在聊天确认，原始PNG待导入",
-      "file": null,
-      "layout": "热水、称茶、香水柠檬、冰块四区；清单、风味气泡与基底比例"
+      "status": "用户标准原图已原样保存",
+      "file": "标准原图/材料.png",
+      "layout": "热水、称茶、香水柠檬、冰块四区；清单、风味气泡与基底比例",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2730311,
+      "sha256": "4296d249fe0141e11887df4ed770b7991f0100bcf38f96415ede528e1acc2fef",
+      "provenance": "用户上传：茉莉绿茶.rar"
     },
     {
       "page": 3,
       "user_filename": "步骤.png",
-      "status": "已在聊天确认，原始PNG待导入",
-      "file": null,
-      "layout": "四格纵排、红底白字编号条、左侧操作、右侧怪兽提示"
+      "status": "用户标准原图已原样保存",
+      "file": "标准原图/步骤.png",
+      "layout": "四格纵排、红底白字编号条、左侧操作、右侧怪兽提示",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2731364,
+      "sha256": "0d60a0e1fb8378ab5b075618326bdc05878afedd13a9b9b454d40dca01959617",
+      "provenance": "用户上传：茉莉绿茶.rar"
     },
     {
       "page": 4,
       "user_filename": "雪克.png",
-      "status": "已在聊天确认，原始PNG待导入",
-      "file": null,
-      "layout": "双手雪克、运动箭头、左侧说明卡、右侧特写、拟声字、下方成品；无底部比例条"
+      "status": "用户标准原图已原样保存",
+      "file": "标准原图/雪克.png",
+      "layout": "双手雪克、运动箭头、左侧说明卡、右侧特写、拟声字、下方成品；无底部比例条",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2729880,
+      "sha256": "d63e655bfa8822112f6eab54f1e3eb0f9ad1f756da6fbe91a5585d4b8a9cfd8f",
+      "provenance": "用户上传：茉莉绿茶.rar"
     },
     {
       "page": 5,
       "user_filename": "封底.png",
-      "status": "已在聊天确认，原始PNG待导入",
-      "file": null,
-      "layout": "成品特写与卖点箭头、三格表情、左下双杯、右下四步配方卡、底部互动"
+      "status": "用户标准原图已原样保存",
+      "file": "标准原图/封底.png",
+      "layout": "成品特写与卖点箭头、三格表情、左下双杯、右下四步配方卡、底部互动",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2510956,
+      "sha256": "c79422daae2fbaaadf166009850a5883e153fcc465256a314d0a3db7f3f64cc9",
+      "provenance": "用户上传：茉莉绿茶.rar"
     }
-  ]
+  ],
+  "source_archive": {
+    "filename": "茉莉绿茶.rar",
+    "bytes": 12979633,
+    "sha256": "8b6fc624ba2c42fee58081ce8f7ff77ba390bf23528163e15bb8e9c34a2b21e2",
+    "imported_date": "2026-10-12",
+    "preserved_original_bytes": true
+  }
 }
