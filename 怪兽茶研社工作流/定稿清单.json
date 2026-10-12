@@ -1,0 +1,93 @@
+{
+  "workflow_name": "怪兽茶研社五页漫画工作流",
+  "version": "1.0",
+  "saved_date": "2026-10-12",
+  "timezone": "Asia/Shanghai",
+  "page_order": [
+    "封面",
+    "原料准备",
+    "完整制作步骤",
+    "关键动作",
+    "成品收尾"
+  ],
+  "visual_preferences": {
+    "aspect_ratio": "3:4",
+    "mascot": "黑色怪兽，稍扁平漫画风，清楚轮廓，减少绒毛及立体阴影",
+    "cup": "透明外带杯，凸起透明饮口盖，杯身无任何文字或标志",
+    "lemon": "绿皮香水柠檬，果肉淡黄",
+    "pitcher": "直筒刻度透明玻璃壶，大C形把手",
+    "filter": "红柄长锥形棕色布滤袋"
+  },
+  "current_theme": {
+    "name": "茉莉绿茶",
+    "cover_label": "今日茶研｜茉莉绿茶",
+    "base_recipe": {
+      "tea_g": 50,
+      "hot_water_g": 1250,
+      "covered_steep_minutes": 10,
+      "ice_g": 750,
+      "weight_ratio": [
+        1,
+        25,
+        15
+      ],
+      "hot_water_temperature_c": null,
+      "steps": [
+        "称取茶叶50克",
+        "加热水1250克，盖上焖泡10分钟",
+        "布滤袋过滤茶渣，取出茶汤",
+        "倒入750克冰块，搅拌均匀"
+      ]
+    },
+    "serving_addition": "绿皮香水柠檬片",
+    "lemon_quantity": null,
+    "key_action": "双手雪克摇匀"
+  },
+  "artifacts": [
+    {
+      "page": 1,
+      "file": "最新定稿/01-封面.png",
+      "source": "/workspace/generated_images/exec-8ea8073e-3714-49a0-9c8d-f52a4d96c04b.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2540101,
+      "sha256": "80e5ae1b2053a9ed0d2d9ca091840ec044e0b684983fbeb4b318efa8852cf2d1"
+    },
+    {
+      "page": 2,
+      "file": "最新定稿/02-原料准备.png",
+      "source": "/workspace/generated_images/exec-fe0a20e1-5e10-47fa-9c24-0a247246a7ff.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2692553,
+      "sha256": "42ff7771f51ffb896516f375aaf7959c235a501c2d1409d7e8a1f4119ae7e6ff"
+    },
+    {
+      "page": 3,
+      "file": "最新定稿/03-四步茶汤制作.png",
+      "source": "/workspace/generated_images/exec-1928f9f9-4527-446f-ae7d-a4a6fff31eec.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2731364,
+      "sha256": "0d60a0e1fb8378ab5b075618326bdc05878afedd13a9b9b454d40dca01959617"
+    },
+    {
+      "page": 4,
+      "file": "最新定稿/04-雪克动作.png",
+      "source": "/workspace/generated_images/exec-ea79ec99-2d2b-4b29-bdb6-9eb70b0339f0.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2780764,
+      "sha256": "10fd99ce8ca7e65c524a91d0ffe8d10ed6fdf9e6e0349f803bd541f98e104fc3"
+    },
+    {
+      "page": 5,
+      "file": "最新定稿/05-成品收尾.png",
+      "source": "/workspace/generated_images/exec-43cec168-a334-4390-b583-09f2bfdcd00e.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2510956,
+      "sha256": "c79422daae2fbaaadf166009850a5883e153fcc465256a314d0a3db7f3f64cc9"
+    }
+  ]
+}
