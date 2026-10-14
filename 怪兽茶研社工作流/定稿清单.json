@@ -31,17 +31,23 @@
         25,
         15
       ],
-      "hot_water_temperature_c": null,
+      "hot_water_temperature_c": 70,
       "steps": [
         "称取茶叶50克",
-        "加热水1250克，盖上焖泡10分钟",
-        "布滤袋过滤茶渣，取出茶汤",
+        "加入1250克、70℃热水，盖上焖泡10分钟",
+        "不锈钢滤网过滤茶渣，取出茶汤",
         "倒入750克冰块，搅拌均匀"
       ]
     },
-    "serving_addition": "绿皮香水柠檬片",
+    "serving_addition": "糖浆、绿皮香水柠檬片",
     "lemon_quantity": null,
-    "key_action": "双手雪克摇匀"
+    "syrup_quantity": null,
+    "shake_ingredients": ["已过滤茶汤", "糖浆", "绿皮香水柠檬片"],
+    "key_action": "双手雪克摇匀",
+    "image_recipe_sync": {
+      "status": "待修订",
+      "note": "当前图片尚未同步70℃热水及雪克冰块改为糖浆；基底750克冰块保留"
+    }
   },
   "artifacts": [
     {
