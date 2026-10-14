@@ -1,0 +1,76 @@
+{
+  "template": "模板二｜奶油手账食谱风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v1",
+  "status": "试稿归档，非替换模板一标准原图",
+  "saved_date": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "image_bytes_preserved": true,
+  "page_order": [
+    "成品封面",
+    "食材准备",
+    "制作步骤",
+    "清爽小贴士"
+  ],
+  "role": "公司原标志怪兽本体风格，黑色白线，无完整图标组合，无厨师帽围裙",
+  "recipe": {
+    "scope": "批量茶汤基底",
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "covered_steep_minutes": 10,
+    "ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "serving_addition": "绿皮香水柠檬片",
+    "single_cup_quantities": null,
+    "lemon_quantity": null,
+    "hot_water_temperature_c": null,
+    "shake_time_or_count": null,
+    "yield": null
+  },
+  "artifacts": [
+    {
+      "page": 1,
+      "file": "图片/01-封面.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2353180,
+      "sha256": "e3fb71c5133c657f1bf20abd7c0e9496759e21be385fcd3f165d3ecd41a2c9b2",
+      "source_generation": "exec-8436cc79-d1ff-430e-9675-ca02121a1efe.png",
+      "note": "封面最终修正版，已移除成品杯内多余鲜花和散茶叶"
+    },
+    {
+      "page": 2,
+      "file": "图片/02-食材准备.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2533444,
+      "sha256": "1ba0e63031bf28f44acc34286eb7536b6967d9b154b326a440daa5b6a1366dda",
+      "source_generation": "exec-c45a4760-f78a-4e4a-b793-38e3dcaf67a1.png",
+      "note": "茶汤基底材料与出品柠檬分开说明"
+    },
+    {
+      "page": 3,
+      "file": "图片/03-制作步骤.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2438568,
+      "sha256": "267acc5534a0388a4ba53a673e7772476583386c048cf10e8594ea19008dc467",
+      "source_generation": "exec-69ac6320-1306-4981-a64d-f196f666f565.png",
+      "note": "称茶、盖上焖泡、布滤袋过滤、加冰搅匀四步"
+    },
+    {
+      "page": 4,
+      "file": "图片/04-清爽小贴士.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2331386,
+      "sha256": "f76ae46723156134bf6f0f6520457e252b615d622ad0c20dd22e4b1b823a883a",
+      "source_generation": "exec-4800481f-b8fd-4236-9d22-d52e1d8ce405.png",
+      "note": "贴士最终修正版，已修正双手雪克和布滤袋器具"
+    }
+  ]
+}
