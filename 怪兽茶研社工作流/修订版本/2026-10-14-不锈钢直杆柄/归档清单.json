@@ -1,0 +1,26 @@
+{
+  "template": "模板一｜暖黄元气漫画风",
+  "theme": "茉莉绿茶",
+  "version": "2026-10-14-不锈钢直杆柄",
+  "saved_date": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求更新保存；后续成果另存版本",
+  "filter_handle": "细长直杆式不锈钢柄，末端带小挂环",
+  "handle_geometry": "主体为紧贴并行的细钢杆，末端小挂耳；非贯穿全长的大U形或水滴形环柄",
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "page": 3,
+      "file": "图片/03-步骤.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2701861,
+      "sha256": "4a96f7f6a89565a32fba8fadd87a7ebd5a16c32f2e512f5a6f7e06311dca43d1",
+      "source_generation": "exec-5fd59207-5b63-43e9-8eb7-2dc76e294c54.png",
+      "changes": [
+        "过滤手柄由红色塑料改为细长直杆式不锈钢柄，末端小挂环",
+        "保留模板一白帽白围裙厨师怪兽、五页结构及配方"
+      ]
+    }
+  ]
+}

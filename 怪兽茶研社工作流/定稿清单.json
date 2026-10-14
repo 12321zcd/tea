@@ -16,7 +16,7 @@
     "cup": "透明外带杯，凸起透明饮口盖，杯身无任何文字或标志",
     "lemon": "绿皮香水柠檬，果肉淡黄",
     "pitcher": "直筒刻度透明玻璃壶，大C形把手",
-    "filter": "红柄长锥形棕色布滤袋"
+    "filter": "长锥形棕色布滤袋，配细长直杆式不锈钢柄，末端小挂环"
   },
   "current_theme": {
     "name": "茉莉绿茶",
@@ -95,7 +95,7 @@
       "status": "历史版本，非2.0标准原文件"
     }
   ],
-  "updated_date": "2026-10-12",
+  "updated_date": "2026-10-14",
   "reference_standards": [
     {
       "page": 1,
@@ -164,5 +164,14 @@
     "sha256": "8b6fc624ba2c42fee58081ce8f7ff77ba390bf23528163e15bb8e9c34a2b21e2",
     "imported_date": "2026-10-12",
     "preserved_original_bytes": true
-  }
+  },
+  "current_page_overrides": [
+    {
+      "page": 3,
+      "file": "修订版本/2026-10-14-不锈钢直杆柄/图片/03-步骤.png",
+      "reason": "用户最新手柄要求",
+      "manifest": "修订版本/2026-10-14-不锈钢直杆柄/归档清单.json",
+      "sha256": "4a96f7f6a89565a32fba8fadd87a7ebd5a16c32f2e512f5a6f7e06311dca43d1"
+    }
+  ]
 }
