@@ -1,0 +1,44 @@
+{
+  "template": "模板一｜暖黄元气漫画风",
+  "theme": "茉莉绿茶",
+  "version": "2026-10-14-不锈钢滤网",
+  "saved_date": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户最新器具要求保存",
+  "filter": {
+    "type": "全不锈钢细密滤网",
+    "rim": "圆形宽钢边",
+    "basket": "浅碗形细密金属网篮",
+    "handle": "双线细长U形闭合环柄，杆间狭长镂空，末端圆弧连接",
+    "support": "对侧小支撑耳",
+    "branding": "不复制商品品牌或标志"
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "page": 3,
+      "file": "图片/03-步骤.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2703382,
+      "sha256": "a9bda2355db178bc6550b1389f09f8830fe759a279b969aca1e1e71e8acb7812",
+      "source": "exec-19e33005-a345-4214-8939-38c41eebc7c3.png",
+      "changes": [
+        "布滤袋整体替换为浅碗形不锈钢滤网、双线长环柄",
+        "标签改为不锈钢滤网"
+      ]
+    },
+    {
+      "page": 5,
+      "file": "图片/05-封底.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2516683,
+      "sha256": "091b1c6f4b3faea1cacc1641459e2f1f0a211fd3589330dc6eee2c75d2125866",
+      "source": "exec-e4ba73a6-12a1-4c1b-83a4-d6c78d18564e.png",
+      "changes": [
+        "配方卡第三行改为不锈钢滤网过滤，取出茶汤"
+      ]
+    }
+  ]
+}
