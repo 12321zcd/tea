@@ -1,0 +1,126 @@
+{
+  "template": "模板三｜清新果茶漫画教程风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v2",
+  "saved_date": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "status": "生成并核对完成的试稿，尚未宣告设计定稿",
+  "mascot": "本期指定模板一圆润黑色厨师怪兽、白帽白围裙，正常两条腿",
+  "visual_style": "模板三八页布局；按最新反馈减少高光、水花和花朵装饰，采用清新绿白配色与柔和窗边场景",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "茶汤",
+      "糖浆",
+      "香水柠檬片"
+    ],
+    "syrup_quantity": null,
+    "lemon_quantity": null,
+    "single_cup_tea_quantity": null,
+    "shake_time": null
+  },
+  "preserved_original_image_bytes": true,
+  "artifacts": [
+    {
+      "page": 1,
+      "file": "图片/01-封面.png",
+      "source": "/workspace/generated_images/exec-6028bbeb-ae00-49ef-9c78-f3351b770ce1.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2046960,
+      "sha256": "6ade97a2261bbc4c7ed8ca2b3b6e1e8b146cb80476a627596d39e33ae2a1dce5"
+    },
+    {
+      "page": 2,
+      "file": "图片/02-食材准备.png",
+      "source": "/workspace/generated_images/exec-d36888b2-0fbb-4a65-b0e7-9792c79b3f22.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2268600,
+      "sha256": "cc61715c480afc74748199650aa886fa88048d8165b024fd29bb51b0a76fe3bd"
+    },
+    {
+      "page": 3,
+      "file": "图片/03-称取茶叶.png",
+      "source": "/workspace/generated_images/exec-e40548e8-8947-44aa-a943-8c698b2c6584.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2184374,
+      "sha256": "76f9fc68b516a0977f94a9abe1c25d9301c6408aa130efb3c1775e9e8013187f"
+    },
+    {
+      "page": 4,
+      "file": "图片/04-70度焖泡.png",
+      "source": "/workspace/generated_images/exec-1972749a-fbf1-48e0-9bca-f162a63b649c.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2133112,
+      "sha256": "d1343652e71607686eaa9e40b853e27ca23fbce9cc62a07a8c91cdd6e26a5e8f"
+    },
+    {
+      "page": 5,
+      "file": "图片/05-过滤加冰.png",
+      "source": "/workspace/generated_images/exec-40ca413f-b7ec-43c2-873a-6e341d881932.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2297634,
+      "sha256": "eef71f409aff6f4bb00f3ed068fac975782a41903761606f4c1ec467a2dd70a3"
+    },
+    {
+      "page": 6,
+      "file": "图片/06-糖浆雪克.png",
+      "source": "/workspace/generated_images/exec-029e09bf-8d09-41e4-bb94-0d7c22270f32.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2181960,
+      "sha256": "4616b97918db7189250e295fbfe088cc27c17bbb771f7c32fe835b34ee63e9ce"
+    },
+    {
+      "page": 7,
+      "file": "图片/07-风味卖点.png",
+      "source": "/workspace/generated_images/exec-3495fdcb-733d-4226-8f4a-11b8ac8cee8f.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2207490,
+      "sha256": "0670b05b7686be64b890ea241f0bc639a6532dc2724a956d3c93841b942c36a9"
+    },
+    {
+      "page": 8,
+      "file": "图片/08-成品收尾.png",
+      "source": "/workspace/generated_images/exec-fbdaee2e-1791-44be-9f8b-de9c79d05a7b.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2072814,
+      "sha256": "f68edce51027d9274da3bf604c456acea9ddba6f178f2ba4f4cd488128e906b3"
+    }
+  ],
+  "process_artifacts": [
+    {
+      "file": "过程稿/02-食材准备-修正刻度前.png",
+      "source": "/workspace/generated_images/exec-0dfbc70c-299c-462f-a6f1-38a99c06d997.png",
+      "reason": "去除未确认容量数字前的过程稿",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2291295,
+      "sha256": "02e86f44a9af56133371eae3267d33a8d45413f34dd297bdce9dc4664cf93151"
+    },
+    {
+      "file": "过程稿/06-糖浆雪克-液体修正前.png",
+      "source": "/workspace/generated_images/exec-e1761e24-4d0e-438e-8b5c-b3a56d843ec6.png",
+      "reason": "清理液体碎片状高光前的过程稿",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2214347,
+      "sha256": "811d4234258658163fdc69643530529f1c2aa8a93d327a226af8e2cc980b386a"
+    }
+  ]
+}
