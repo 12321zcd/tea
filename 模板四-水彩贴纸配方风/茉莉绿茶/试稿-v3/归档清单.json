@@ -1,0 +1,136 @@
+{
+  "template": "模板四｜水彩贴纸配方风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v3",
+  "saved_date": "2026-10-15",
+  "timezone": "Asia/Shanghai",
+  "status": "三页已生成并核对的试稿，尚未宣告设计定稿",
+  "visual_style": "奶油白纸纹、浅茶绿浅金水彩、白边贴纸、深棕手写字、细虚线卡，无人物",
+  "page_order": [
+    "封面配方总览",
+    "食材准备与配比",
+    "制作步骤"
+  ],
+  "layout_reference": "用户本轮橙香茉莉椰三张聊天参考；原附件字节未归档",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "茶汤",
+      "糖浆",
+      "香水柠檬片"
+    ],
+    "syrup_quantity": null,
+    "lemon_quantity": null,
+    "single_cup_tea_quantity": null,
+    "shake_time": null
+  },
+  "workflow_groups": [
+    "称茶并用70℃热水盖上焖泡10分钟",
+    "不锈钢滤网过滤茶渣",
+    "加750克冰块搅匀",
+    "茶汤、糖浆与香水柠檬片密封双手雪克后装杯"
+  ],
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "page": 1,
+      "file": "图片/01-封面配方总览.png",
+      "source": "/workspace/tea/模板四-水彩贴纸配方风/茉莉绿茶/试稿-v2/图片/01-封面配方总览.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2189207,
+      "sha256": "ff06db28b4e9f358e34f7fcfed7bc74d741bfe428048b13b4b586b5c3bf192b1"
+    },
+    {
+      "page": 2,
+      "file": "图片/02-食材准备.png",
+      "source": "/workspace/generated_images/exec-b7c4f441-b67e-4603-af5f-9498b5361bbe.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2245866,
+      "sha256": "4601a566fb43fab0c82952869b7b0b4dd32b260cf7b4e00619e1eafe53ff928d"
+    },
+    {
+      "page": 3,
+      "file": "图片/03-制作步骤.png",
+      "source": "/workspace/generated_images/exec-8b37e57d-b9fc-45a9-a9aa-46ec7b20f0e8.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2131393,
+      "sha256": "8c079bee9251559c8748bb21a9f04194ab8949794a475597213c3a8edfedc349"
+    }
+  ],
+  "process_artifacts": [
+    {
+      "file": "过程稿/01-封面-杯底清理前.png",
+      "source": "/workspace/generated_images/exec-6e76dc54-c636-471c-b0b7-e8b7d2520f29.png",
+      "reason": "清理未提供的杯底颗粒与沉淀前",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2385142,
+      "sha256": "e544d913756720f92af162e2831863ab721ff0419e91c33c616950327bef7524"
+    },
+    {
+      "file": "过程稿/03-步骤-液体清理前.png",
+      "source": "/workspace/generated_images/exec-191f117c-ea19-4fdd-bf5f-12caadf44cea.png",
+      "reason": "清理成品杯底及雪克壶内块状高光前",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2250430,
+      "sha256": "2df6e97210216d0716423f72bf960cb29b34492b80709e443d146da7348ef520"
+    },
+    {
+      "file": "过程稿/01-封面-怪兽移近标题前.png",
+      "reason": "保留怪兽原位杯盖上方版本，当前版已缩小并移近标题",
+      "source": "/workspace/generated_images/exec-f5b7c062-bed8-47ff-93b4-adbc58030ef1.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2153320,
+      "sha256": "5f71620a7d7fa045a80bd185aaf9d02ed317b97a31f81e991557bc631cbb30c6"
+    },
+    {
+      "file": "过程稿/01-封面-标题旁怪兽放大前.png",
+      "reason": "封面怪兽大小及留白调整过程",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2129780,
+      "sha256": "63f4dfd7623af3e6f849f8fcdbe8a8cb39749b4485848042a6ff516e465b53a0"
+    },
+    {
+      "file": "过程稿/01-封面-放大后留白调整前.png",
+      "reason": "封面怪兽大小及留白调整过程",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2120873,
+      "sha256": "5fbfdf64fc64c9a58977b7580d1ed5add46d938ffe081ec7c4b93c88008e1adf"
+    }
+  ],
+  "revision": "封面有怪兽与无怪兽两版供选，默认无怪兽沿用v2；两张内页保留v3怪兽。",
+  "cover_options": [
+    {
+      "file": "封面备选/01-封面-无怪兽.png",
+      "default": true,
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2189207,
+      "sha256": "ff06db28b4e9f358e34f7fcfed7bc74d741bfe428048b13b4b586b5c3bf192b1"
+    },
+    {
+      "file": "封面备选/01-封面-有怪兽.png",
+      "default": false,
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2136611,
+      "sha256": "23f0f332e42f35d2429f2629dc335a496d1135aa684b823d2d138e06d64675ae"
+    }
+  ]
+}
