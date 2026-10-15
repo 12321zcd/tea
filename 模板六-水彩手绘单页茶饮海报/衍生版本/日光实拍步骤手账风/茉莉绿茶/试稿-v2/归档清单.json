@@ -1,0 +1,74 @@
+{
+  "template": "模板六衍生版-日光实拍步骤手账风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v2",
+  "saved_date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求纳入GitHub版本保存",
+  "reference": "试稿v1前三页沿用；第04页构图参考用户微信图片_20261016013029_30_57.jpg聊天附件，原JPG字节未归档",
+  "cover": "复用模板六v3原字节，保留原比例",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "已过滤茶汤",
+      "糖浆",
+      "绿皮香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "file": "图片/01-封面-模板六v3.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v1/图片/01-封面-模板六v3.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2414693,
+      "sha256": "72c63824738fc290a6e2170fd71a29cc2a5546a189fadfd5383d3fb2e43c4b79"
+    },
+    {
+      "file": "图片/02-食材实拍.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v1/图片/02-食材实拍.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2184192,
+      "sha256": "773ddc922a2e093b353e9dd0fe6387566d85584a9b1986a16e38e9e886f8127f"
+    },
+    {
+      "file": "图片/03-六格制作步骤.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v1/图片/03-六格制作步骤.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2210596,
+      "sha256": "675ff5c8b8c882821703699a547738ffe119c41a9afa1ba7f549b1792dfee5c6"
+    },
+    {
+      "file": "图片/04-成品窗边全杯.png",
+      "source": "/workspace/generated_images/exec-27ce457e-78ed-4a7f-9fa2-c6f9fedac58b.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2163921,
+      "sha256": "bfb5d2dee60de9f3474f950c240643dd3fcc22b4840f51295f1f89e8f6739c85"
+    }
+  ],
+  "process_artifacts": [],
+  "visual_review": [
+    "成品杯完整呈现，主体偏右，左侧木窗及窗外绿植、灰墙和木桌留白符合构图方向",
+    "保留透明外带杯与直饮盖、淡金茶汤、绿皮柠檬和干净冰块；未增加参考中的高脚杯或甜品装饰",
+    "前三页SHA-256与试稿v1一致；v1保留"
+  ],
+  "change": "仅第04页由满版近景改为窗边完整杯身偏右构图，左侧木窗、灰墙和木桌留白。",
+  "parent_template": "模板六-水彩手绘单页茶饮海报",
+  "classification_date": "2026-10-16"
+}

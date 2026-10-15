@@ -1,0 +1,83 @@
+{
+  "template": "模板六衍生版-日光实拍步骤手账风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v1",
+  "saved_date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求纳入GitHub版本保存",
+  "reference": "用户聊天三张芒果椰奶奶昔参考，原JPG字节未归档",
+  "cover": "复用模板六v3原字节，保留原比例",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "已过滤茶汤",
+      "糖浆",
+      "绿皮香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "file": "图片/01-封面-模板六v3.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/茉莉绿茶/试稿-v3/图片/01-茉莉绿茶单页海报.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2414693,
+      "sha256": "72c63824738fc290a6e2170fd71a29cc2a5546a189fadfd5383d3fb2e43c4b79"
+    },
+    {
+      "file": "图片/02-食材实拍.png",
+      "source": "/workspace/generated_images/exec-bbf92f99-9d45-42cb-b9ef-6d7a29319672.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2184192,
+      "sha256": "773ddc922a2e093b353e9dd0fe6387566d85584a9b1986a16e38e9e886f8127f"
+    },
+    {
+      "file": "图片/03-六格制作步骤.png",
+      "source": "/workspace/generated_images/exec-85a19a7d-05e4-42ee-aae5-a48cb4123c88.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2210596,
+      "sha256": "675ff5c8b8c882821703699a547738ffe119c41a9afa1ba7f549b1792dfee5c6"
+    },
+    {
+      "file": "图片/04-成品特写.png",
+      "source": "/workspace/generated_images/exec-a52148ee-4595-480e-9090-eab2e367750e.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2208665,
+      "sha256": "49b064bc1429b68ac0077b40af22ff76e8d8847cecb7db8a9046d9631dd9ac65"
+    }
+  ],
+  "process_artifacts": [
+    {
+      "file": "过程稿/02-食材实拍-刻度修正前.png",
+      "source": "/workspace/generated_images/exec-2ddd9b1f-b427-4aec-a719-3fcad65e1dae.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2296845,
+      "sha256": "07027c435e029739156208035aa9d449ba21feb690d2ef93f0abc74f3a2e4525"
+    }
+  ],
+  "visual_review": [
+    "已检查三张新内页的主题、六格连续编号、70℃、10分钟、750克和批量说明",
+    "食材页水壶刻度已由1500修正为水面1250，热水保持清澈无色",
+    "封面校验值与模板六v3一致；成品盖无外挂柠檬片",
+    "生成照片用于视觉表达，不作为量具计量或实际产量证明"
+  ],
+  "parent_template": "模板六-水彩手绘单页茶饮海报",
+  "classification_date": "2026-10-16"
+}
