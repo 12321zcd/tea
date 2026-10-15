@@ -1,0 +1,93 @@
+{
+  "template": "模板四｜水彩贴纸配方风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v2",
+  "saved_date": "2026-10-15",
+  "timezone": "Asia/Shanghai",
+  "status": "三页已生成并核对的试稿，尚未宣告设计定稿",
+  "visual_style": "奶油白纸纹、浅茶绿浅金水彩、白边贴纸、深棕手写字、细虚线卡，无人物",
+  "page_order": [
+    "封面配方总览",
+    "食材准备与配比",
+    "制作步骤"
+  ],
+  "layout_reference": "用户本轮橙香茉莉椰三张聊天参考；原附件字节未归档",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "茶汤",
+      "糖浆",
+      "香水柠檬片"
+    ],
+    "syrup_quantity": null,
+    "lemon_quantity": null,
+    "single_cup_tea_quantity": null,
+    "shake_time": null
+  },
+  "workflow_groups": [
+    "称茶并用70℃热水盖上焖泡10分钟",
+    "不锈钢滤网过滤茶渣",
+    "加750克冰块搅匀",
+    "茶汤、糖浆与香水柠檬片密封双手雪克后装杯"
+  ],
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "page": 1,
+      "file": "图片/01-封面配方总览.png",
+      "source": "/workspace/generated_images/exec-e70e5668-952c-4f36-a57e-cc84d951cc99.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2189207,
+      "sha256": "ff06db28b4e9f358e34f7fcfed7bc74d741bfe428048b13b4b586b5c3bf192b1"
+    },
+    {
+      "page": 2,
+      "file": "图片/02-食材准备.png",
+      "source": "/workspace/generated_images/exec-ddf161fd-3829-4f80-be86-f03f300b0737.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2369708,
+      "sha256": "ec881cabdae6644508e74a4d6b2972f4c09e8cdf7d96497317921055aaec7e76"
+    },
+    {
+      "page": 3,
+      "file": "图片/03-制作步骤.png",
+      "source": "/workspace/generated_images/exec-21c12179-4fc2-4fbc-91b8-1fd54842a748.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2207904,
+      "sha256": "5782ff775e7242519f1a0e9ac3082abde05a35d734945ab7ccd8f41a0e790389"
+    }
+  ],
+  "process_artifacts": [
+    {
+      "file": "过程稿/01-封面-杯底清理前.png",
+      "source": "/workspace/generated_images/exec-6e76dc54-c636-471c-b0b7-e8b7d2520f29.png",
+      "reason": "清理未提供的杯底颗粒与沉淀前",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2385142,
+      "sha256": "e544d913756720f92af162e2831863ab721ff0419e91c33c616950327bef7524"
+    },
+    {
+      "file": "过程稿/03-步骤-液体清理前.png",
+      "source": "/workspace/generated_images/exec-191f117c-ea19-4fdd-bf5f-12caadf44cea.png",
+      "reason": "清理成品杯底及雪克壶内块状高光前",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2250430,
+      "sha256": "2df6e97210216d0716423f72bf960cb29b34492b80709e443d146da7348ef520"
+    }
+  ],
+  "revision": "依据用户茉莉干茶实物照片，重绘封面一处及食材页两处茶叶；步骤页沿用v1。"
+}
