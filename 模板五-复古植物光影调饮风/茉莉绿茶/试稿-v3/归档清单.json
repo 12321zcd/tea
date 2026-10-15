@@ -1,0 +1,84 @@
+{
+  "template": "模板五｜复古植物光影调饮风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v3",
+  "saved_date": "2026-10-15",
+  "timezone": "Asia/Shanghai",
+  "status": "三页试稿，尚未宣告设计定稿，按用户要求纳入GitHub版本保存",
+  "layout_reference": "用户聊天上传经典莫吉托三图，原附件字节未归档",
+  "visual_style": "2:3，复古米白纸底、墨绿书法字、真实饮品摄影、木桌及植物光影，无怪兽",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "茶汤",
+      "糖浆",
+      "香水柠檬片"
+    ],
+    "syrup_quantity": null,
+    "lemon_quantity": null,
+    "single_cup_tea_quantity": null
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "file": "图片/01-封面.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2672447,
+      "sha256": "79582648675de346de0c31dcd791313674de64c6d84f556ff8ab6f67fc8e421c",
+      "source": "/workspace/generated_images/exec-a6d320fd-0db0-4994-944b-eb846f016ddb.png"
+    },
+    {
+      "file": "图片/02-材料清单.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2452020,
+      "sha256": "af7260bee8c4581b3e4163444401bf8406a8e612361f4a41ac5fd2089c3f808b",
+      "source": "/workspace/generated_images/exec-bf6fa4be-1c0e-4a97-932c-d5fb2a78a1cb.png"
+    },
+    {
+      "file": "图片/03-制作步骤.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2664522,
+      "sha256": "d8511538f73c8a2156b31aa43ad033aa702263e4794d2e1667bedd65748d487f",
+      "source": "/workspace/generated_images/exec-7f3cd605-d663-496f-a9c3-75ffb4c09dab.png"
+    }
+  ],
+  "process_artifacts": [
+    {
+      "file": "过程稿/01-封面-背景修正前.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2891283,
+      "sha256": "a742c90b03412a31fef87a335e9942efd83684f405117117c6264d82d19a476a",
+      "reason": "保留背景招牌与器具修正前的生成图，不作为当前版本使用"
+    },
+    {
+      "file": "过程稿/02-材料-器具修正前.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2941951,
+      "sha256": "07abce06f21ff502341805910d29a64df2325d50302564c3fd4c118cd846c802",
+      "reason": "保留背景招牌与器具修正前的生成图，不作为当前版本使用"
+    },
+    {
+      "file": "过程稿/03-步骤-器具修正前.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2921402,
+      "sha256": "26e723f1f1283b0817972e0a41b9dfb284ed83dd79e22a3e123d855f7036fb1d",
+      "reason": "保留背景招牌与器具修正前的生成图，不作为当前版本使用"
+    }
+  ],
+  "revision": "以用户红框标注原图为材料页底图，仅清理材料下方横向石台面与条状阴影，去掉红标；食材位置与其余背景恢复标注原图。封面、步骤页沿用v1。"
+}
