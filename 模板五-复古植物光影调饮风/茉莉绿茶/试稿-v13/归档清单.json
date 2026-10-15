@@ -1,0 +1,92 @@
+{
+  "template": "模板五｜复古植物光影调饮风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v13",
+  "saved_date": "2026-10-15",
+  "timezone": "Asia/Shanghai",
+  "status": "试稿，按用户要求仅本版纳入本次GitHub保存",
+  "layout_reference": "用户聊天上传经典莫吉托三图，原附件字节未归档",
+  "visual_style": "2:3，复古米白纸底、墨绿书法字、真实饮品摄影、木桌及植物光影，无怪兽",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "茶汤",
+      "糖浆",
+      "香水柠檬片"
+    ],
+    "syrup_quantity": null,
+    "lemon_quantity": null,
+    "single_cup_tea_quantity": null
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "file": "图片/01-封面.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2672447,
+      "sha256": "79582648675de346de0c31dcd791313674de64c6d84f556ff8ab6f67fc8e421c",
+      "source": "/workspace/generated_images/exec-a6d320fd-0db0-4994-944b-eb846f016ddb.png"
+    },
+    {
+      "file": "图片/02-材料清单.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2373770,
+      "sha256": "3c98d4ffd85ae7b5c9f3ce8556628cd0fbdaee0067f6fa43f1053a02a4ed1fc0",
+      "source": "/workspace/generated_images/exec-690a03ce-38a1-4467-9f5c-7f7784686e49.png"
+    },
+    {
+      "file": "图片/03-制作步骤.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2664522,
+      "sha256": "d8511538f73c8a2156b31aa43ad033aa702263e4794d2e1667bedd65748d487f",
+      "source": "/workspace/generated_images/exec-7f3cd605-d663-496f-a9c3-75ffb4c09dab.png"
+    }
+  ],
+  "process_artifacts": [
+    {
+      "file": "过程稿/01-封面-背景修正前.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2891283,
+      "sha256": "a742c90b03412a31fef87a335e9942efd83684f405117117c6264d82d19a476a",
+      "reason": "保留背景招牌与器具修正前的生成图，不作为当前版本使用"
+    },
+    {
+      "file": "过程稿/02-材料-器具修正前.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2941951,
+      "sha256": "07abce06f21ff502341805910d29a64df2325d50302564c3fd4c118cd846c802",
+      "reason": "保留背景招牌与器具修正前的生成图，不作为当前版本使用"
+    },
+    {
+      "file": "过程稿/03-步骤-器具修正前.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2921402,
+      "sha256": "26e723f1f1283b0817972e0a41b9dfb284ed83dd79e22a3e123d855f7036fb1d",
+      "reason": "保留背景招牌与器具修正前的生成图，不作为当前版本使用"
+    },
+    {
+      "file": "过程稿/02-材料-原图标注替换位置调整前.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2772989,
+      "sha256": "a3343a595fcdfb7d1b72831d10559e4bd91606ee9c06459077b13810938e0a94",
+      "reason": "标注物件替换后，热水壶与冰碗位置尺寸调整前"
+    }
+  ],
+  "revision": "仅材料页左下风景由城市海港线稿换为中国茶山、茶垄、远山与小茶亭淡墨装饰，印章中央换茶叶图案；其余沿用v12。"
+}
