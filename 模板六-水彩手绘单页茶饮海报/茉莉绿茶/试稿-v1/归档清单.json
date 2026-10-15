@@ -1,0 +1,58 @@
+{
+  "template": "模板六｜水彩手绘单页茶饮海报",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v1",
+  "saved_date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "status": "单页试稿，按用户要求纳入GitHub版本保存",
+  "reference": "用户本轮柠檬冰红茶聊天附件，原始JPG字节未归档",
+  "theme_assumption": "用户未另指定名称，沿用项目当前茉莉绿茶主题",
+  "structure": [
+    "横排标题与短句条",
+    "中央成品大杯",
+    "左侧三条卖点",
+    "右侧五项食材",
+    "底部五格步骤与贴士"
+  ],
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "茶汤",
+      "糖浆",
+      "香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "file": "图片/01-茉莉绿茶单页海报.png",
+      "source": "/workspace/generated_images/exec-b3486f87-b087-4d4a-8ac5-a595d92f0ae9.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2676300,
+      "sha256": "fc30b1e6f283aa96c1d6c334d2db595443347f96e2f415113de3efe4b08fdaf1"
+    }
+  ],
+  "process_artifacts": [
+    {
+      "file": "过程稿/01-成品杯盖修订前.png",
+      "source": "/workspace/generated_images/exec-1db43ff3-00a2-458e-bdcd-4cbb04c744ba.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2979404,
+      "sha256": "907f831b2d200536d123ccac45734858e16eef3a631aa12089f320221f70f038"
+    }
+  ]
+}
