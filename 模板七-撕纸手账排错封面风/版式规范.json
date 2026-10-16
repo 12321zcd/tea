@@ -1,0 +1,162 @@
+{
+  "template": "模板七",
+  "name": "撕纸手账排错封面风",
+  "created_date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "scope": "模板七封面规范；当前茉莉绿茶可按用户指定搭配模板六衍生版三张内页",
+  "status": "按用户要求纳入GitHub版本保存",
+  "reference": {
+    "source": "用户本轮聊天上传镜面抹茶翻车封面",
+    "original_bytes_archived": false,
+    "display_width": 1080,
+    "display_height": 1440,
+    "layout_measurement": "目测近似范围，非精确像素测量",
+    "colors": "目测建议，非原文件取色"
+  },
+  "canvas": {
+    "aspect_ratio": "3:4",
+    "orientation": "portrait"
+  },
+  "modules": [
+    {
+      "id": "title",
+      "x_percent": [
+        1,
+        98
+      ],
+      "y_percent": [
+        2,
+        21
+      ],
+      "text": "镜面抹茶翻车？",
+      "treatment": "奶油撕纸，深绿主题词，焦橙问题词，粗笔手写"
+    },
+    {
+      "id": "symptoms",
+      "x_percent": [
+        32,
+        96
+      ],
+      "y_percent": [
+        17,
+        26
+      ],
+      "text": "结块·大泡·一倒就散",
+      "treatment": "浅橄榄纸条，橙色下划线"
+    },
+    {
+      "id": "target_drink",
+      "x_percent": [
+        16,
+        60
+      ],
+      "y_percent": [
+        28,
+        86
+      ],
+      "role": "大杯成功目标示范"
+    },
+    {
+      "id": "checks",
+      "x_percent": [
+        60,
+        99
+      ],
+      "y_percent": [
+        28,
+        63
+      ],
+      "items": [
+        "先看粉团",
+        "再看大泡",
+        "最后看倒法"
+      ],
+      "treatment": "三条撕纸、圈号、箭头与两处胶带"
+    },
+    {
+      "id": "tea_bowl",
+      "x_percent": [
+        63,
+        93
+      ],
+      "y_percent": [
+        63,
+        89
+      ],
+      "role": "右下茶叶原料展示",
+      "treatment": "模板五材料页同款米色斑点陶碗，宽圆碗口、矮圈足，略俯视的斜向碗口；装得饱满的深灰橄榄绿扁长茉莉干茶，夹少量乳白至微黄干花苞，茶堆自然高出碗沿",
+      "reference": "模板五-复古植物光影调饮风/茉莉绿茶/试稿-v19/图片/02-材料清单.png",
+      "replaces": "原参考问题小杯，当前不再画失败小杯",
+      "placement": "原右下区域内使用自然矮宽碗比例，避开第三条与收藏条"
+    },
+    {
+      "id": "footer",
+      "x_percent": [
+        11,
+        93
+      ],
+      "y_percent": [
+        88,
+        98
+      ],
+      "text": "收藏｜下一杯逐项排查",
+      "treatment": "长撕纸、橙心与下划线"
+    }
+  ],
+  "palette_estimates": {
+    "paper": "#F4EED9",
+    "main_ink": "#24390D",
+    "olive": "#B8BE7A",
+    "accent": "#BC5911",
+    "wood": "#AD7B4B"
+  },
+  "unknowns": [
+    "配方用量",
+    "温度与时间",
+    "具体失败成因验证",
+    "原帖内容页",
+    "原始文件字节"
+  ],
+  "generated_artifacts": [],
+  "updated_date": "2026-10-16",
+  "current_structure": [
+    "撕纸主标题",
+    "症状短条",
+    "左侧主杯",
+    "右侧三项排查",
+    "右下茉莉茶叶陶碗",
+    "底部收藏条"
+  ],
+  "bowl_reference": {
+    "file": "模板五-复古植物光影调饮风/茉莉绿茶/试稿-v19/图片/02-材料清单.png",
+    "viewed": true,
+    "reuse_scope": "仅碗型、朝向和茶叶外观，不继承模板五背景及其他物件",
+    "contents": "饱满茉莉干茶与少量干花苞",
+    "capacity_or_weight": null
+  },
+  "current_theme": "茉莉绿茶",
+  "current_version": "试稿-v2四页组合",
+  "page_order": [
+    {
+      "page": 1,
+      "name": "01-茉莉绿茶封面.png",
+      "source_version": "模板七茉莉绿茶试稿v1"
+    },
+    {
+      "page": 2,
+      "name": "02-食材实拍.png",
+      "source_version": "模板六衍生版茉莉绿茶试稿v5第02页"
+    },
+    {
+      "page": 3,
+      "name": "03-六格茶汤基底制作.png",
+      "source_version": "模板六衍生版茉莉绿茶试稿v5第03页"
+    },
+    {
+      "page": 4,
+      "name": "04-成品窗边细高杯.png",
+      "source_version": "模板六衍生版茉莉绿茶试稿v5第04页"
+    }
+  ],
+  "composition_status": "当前茉莉绿茶试稿v2四页组合按用户要求纳入GitHub版本保存"
+}

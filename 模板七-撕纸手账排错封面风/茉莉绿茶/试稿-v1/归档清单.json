@@ -1,0 +1,67 @@
+{
+  "template": "模板七-撕纸手账排错封面风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v1",
+  "saved_date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求纳入GitHub版本保存",
+  "reference": "抹茶参考封面用于构图；模板五v19材料页用于茶碗、朝向与茶叶形态。原抹茶图片字节未归档。",
+  "copy": {
+    "title": "茉莉绿茶怎么泡？",
+    "subtitle": "茉莉清香·柠檬清爽",
+    "cards": [
+      "70℃热水",
+      "焖泡10分钟",
+      "先滤再加冰"
+    ],
+    "footer": "收藏｜茉莉茶汤记住这三点"
+  },
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "已过滤茶汤",
+      "糖浆",
+      "绿皮香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "file": "图片/01-茉莉绿茶封面.png",
+      "source": "/workspace/generated_images/exec-a4014200-7836-4e18-bcb2-dadec691f4d3.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2508453,
+      "sha256": "75ac3a13250127c4f8b0f4eb2516f39477937801a88d2f704f031201e3558b2b"
+    }
+  ],
+  "process_artifacts": [
+    {
+      "file": "过程稿/01-封面-道具与茶碗边距清理前.png",
+      "source": "/workspace/generated_images/exec-65f02465-4e41-4772-a923-007d6e80b6f4.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2578339,
+      "sha256": "eed349e3441bccde9a3e3ea431b08512dafae1eb3cf13cf62d7958d3f4d6443b"
+    }
+  ],
+  "visual_review": [
+    "保留撕纸大标题、左主杯、右侧三条、右下茶碗与页脚结构",
+    "右下米色斑点茶碗完整入镜，左侧多余茶筅和第二只碗已清理",
+    "标题主题、70℃、焖泡10分钟、先滤再加冰文字可读",
+    "深色干茶与少量乳白花苞；茶汤淡金透明，无奶层与抹茶糊层",
+    "三条是已确认配方重点，不是完整制作三步骤；基底冰750克和未知单杯用量规则未变"
+  ]
+}

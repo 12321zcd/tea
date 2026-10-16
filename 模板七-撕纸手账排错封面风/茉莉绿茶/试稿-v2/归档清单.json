@@ -1,0 +1,77 @@
+{
+  "template": "模板七-撕纸手账排错封面风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v2",
+  "saved_date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求纳入GitHub版本保存",
+  "method": "按用户要求复用模板七v1封面，加入模板六衍生版v5的02／03／04页，四张PNG逐字节复制，不重绘、不裁切、不重新编码",
+  "linked_source": "https://github.com/12321zcd/tea/tree/main/模板六-水彩手绘单页茶饮海报/衍生版本",
+  "source_inner_version": "茉莉绿茶/试稿-v5",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "已过滤茶汤",
+      "糖浆",
+      "绿皮香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "artifacts": [
+    {
+      "file": "图片/01-茉莉绿茶封面.png",
+      "source": "/workspace/tea/模板七-撕纸手账排错封面风/茉莉绿茶/试稿-v1/图片/01-茉莉绿茶封面.png",
+      "source_version": "模板七茉莉绿茶试稿v1",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2508453,
+      "sha256": "75ac3a13250127c4f8b0f4eb2516f39477937801a88d2f704f031201e3558b2b"
+    },
+    {
+      "file": "图片/02-食材实拍.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v5/图片/02-食材实拍.png",
+      "source_version": "模板六衍生版茉莉绿茶试稿v5第02页",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2184192,
+      "sha256": "773ddc922a2e093b353e9dd0fe6387566d85584a9b1986a16e38e9e886f8127f"
+    },
+    {
+      "file": "图片/03-六格茶汤基底制作.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v5/图片/03-六格茶汤基底制作.png",
+      "source_version": "模板六衍生版茉莉绿茶试稿v5第03页",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2231848,
+      "sha256": "49f1c8bd2161a4f38fa1c6971b4bf9e73d0f1621dc7e4804429794bb4d8a27eb"
+    },
+    {
+      "file": "图片/04-成品窗边细高杯.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v5/图片/04-成品窗边细高杯.png",
+      "source_version": "模板六衍生版茉莉绿茶试稿v5第04页",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2129219,
+      "sha256": "e08e208d3c3d3435cbe7ceec358f6581918169f1f056d517a8e69b756a5725a2"
+    }
+  ],
+  "image_bytes_preserved": true,
+  "new_images_generated": false,
+  "page3_scope": "称取茶叶→加入热水→盖上焖泡→过滤茶渣→加冰搅匀→完成茶汤",
+  "notes": [
+    "封面为无盖厚底玻璃杯，末页沿用无logo细高平盖吸管杯，未进行统一杯型重绘",
+    "第03页保留源图页脚；本组合封面为三项基底重点，不等于完整单杯出品教程",
+    "历史模板七v1及模板六衍生版源文件保留"
+  ]
+}
