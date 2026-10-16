@@ -1,0 +1,74 @@
+{
+  "template": "模板六衍生版-日光实拍步骤手账风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v3",
+  "saved_date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求纳入GitHub版本保存",
+  "reference": "用户细高透明外带杯照片，仅用于杯型／平盖／直吸管，去除logo；原JPG未按字节归档",
+  "cover": "复用模板六v3原字节，保留原比例",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "已过滤茶汤",
+      "糖浆",
+      "绿皮香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "file": "图片/01-封面-模板六v3.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v2/图片/01-封面-模板六v3.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2414693,
+      "sha256": "72c63824738fc290a6e2170fd71a29cc2a5546a189fadfd5383d3fb2e43c4b79"
+    },
+    {
+      "file": "图片/02-食材实拍.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v2/图片/02-食材实拍.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2184192,
+      "sha256": "773ddc922a2e093b353e9dd0fe6387566d85584a9b1986a16e38e9e886f8127f"
+    },
+    {
+      "file": "图片/03-六格制作步骤.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v2/图片/03-六格制作步骤.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2210596,
+      "sha256": "675ff5c8b8c882821703699a547738ffe119c41a9afa1ba7f549b1792dfee5c6"
+    },
+    {
+      "file": "图片/04-成品窗边细高杯.png",
+      "source": "/workspace/generated_images/exec-ac50976e-9da7-4197-8ad0-9f1ec300363d.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2129219,
+      "sha256": "e08e208d3c3d3435cbe7ceec358f6581918169f1f056d517a8e69b756a5725a2"
+    }
+  ],
+  "process_artifacts": [],
+  "visual_review": [
+    "完整杯身与直吸管入镜，杯身无logo和文字",
+    "茶汤保持淡金透明、绿皮柠檬与冰，未替换为咖啡或奶茶",
+    "窗边构图保留，前三页字节与v2相同"
+  ],
+  "change": "仅第04页改细高无logo透明杯、透明平盖与浅米色直吸管。其余三页沿用v2。",
+  "parent_template": "模板六-水彩手绘单页茶饮海报",
+  "classification_date": "2026-10-16"
+}
