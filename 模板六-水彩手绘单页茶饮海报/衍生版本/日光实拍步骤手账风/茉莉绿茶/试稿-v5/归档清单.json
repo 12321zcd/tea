@@ -1,0 +1,91 @@
+{
+  "template": "模板六衍生版-日光实拍步骤手账风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v5",
+  "saved_date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求纳入GitHub版本保存",
+  "reference": "沿用衍生版v4，用户要求封面步骤五的小杯不加盖",
+  "cover": "基于v4封面局部去除步骤五小杯盖，中央大杯盖保留",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "已过滤茶汤",
+      "糖浆",
+      "绿皮香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "file": "图片/01-封面-单杯出品流程.png",
+      "source": "/workspace/generated_images/exec-19a62bfd-965f-497a-a756-5395a92e20c6.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2380231,
+      "sha256": "bf3eadd5ddc8342323e47392aed502cc849b5470f0d72b423db8d680bf564dad"
+    },
+    {
+      "file": "图片/02-食材实拍.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v4/图片/02-食材实拍.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2184192,
+      "sha256": "773ddc922a2e093b353e9dd0fe6387566d85584a9b1986a16e38e9e886f8127f"
+    },
+    {
+      "file": "图片/03-六格茶汤基底制作.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v4/图片/03-六格茶汤基底制作.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2231848,
+      "sha256": "49f1c8bd2161a4f38fa1c6971b4bf9e73d0f1621dc7e4804429794bb4d8a27eb"
+    },
+    {
+      "file": "图片/04-成品窗边细高杯.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v4/图片/04-成品窗边细高杯.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2129219,
+      "sha256": "e08e208d3c3d3435cbe7ceec358f6581918169f1f056d517a8e69b756a5725a2"
+    }
+  ],
+  "process_artifacts": [],
+  "visual_review": [
+    "步骤五小杯敞口，倒茶入杯，文字为装入成品杯，即可出品",
+    "中央大杯盖和步骤四雪克壶盖保留",
+    "第02、03、04页与v4原字节一致"
+  ],
+  "change": "只改封面步骤5小杯为敞口无盖及说明为装入成品杯，即可出品。",
+  "parent_template": "模板六-水彩手绘单页茶饮海报",
+  "classification_date": "2026-10-16",
+  "page_flows": {
+    "cover": [
+      "完成茶汤",
+      "倒入茶汤",
+      "加入加料",
+      "双手雪克",
+      "装杯出品"
+    ],
+    "page3": [
+      "称取茶叶",
+      "加入热水",
+      "盖上焖泡",
+      "过滤茶渣",
+      "加冰搅匀",
+      "完成茶汤"
+    ]
+  }
+}

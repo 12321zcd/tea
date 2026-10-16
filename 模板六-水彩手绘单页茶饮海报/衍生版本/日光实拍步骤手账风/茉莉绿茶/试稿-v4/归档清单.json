@@ -1,0 +1,92 @@
+{
+  "template": "模板六衍生版-日光实拍步骤手账风",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v4",
+  "saved_date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求纳入GitHub版本保存",
+  "reference": "以衍生版v3第01及03页为底图，按用户要求分开封面出品流程与第三页茶汤基底制作",
+  "cover": "基于模板六封面局部修订五格步骤及贴士，原版封面保留",
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "已过滤茶汤",
+      "糖浆",
+      "绿皮香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "image_bytes_preserved": true,
+  "artifacts": [
+    {
+      "file": "图片/01-封面-单杯出品流程.png",
+      "source": "/workspace/generated_images/exec-07698cbe-88c5-428c-b94d-9546e8bfaa11.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2421317,
+      "sha256": "6e47af02974185e6895861db5d4a437f1a6e9d8239a6ce35c0b7097a58b26b0d"
+    },
+    {
+      "file": "图片/02-食材实拍.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v3/图片/02-食材实拍.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2184192,
+      "sha256": "773ddc922a2e093b353e9dd0fe6387566d85584a9b1986a16e38e9e886f8127f"
+    },
+    {
+      "file": "图片/03-六格茶汤基底制作.png",
+      "source": "/workspace/generated_images/exec-b40aa62e-5a1e-4bbd-87f5-3abf5ed80486.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2231848,
+      "sha256": "49f1c8bd2161a4f38fa1c6971b4bf9e73d0f1621dc7e4804429794bb4d8a27eb"
+    },
+    {
+      "file": "图片/04-成品窗边细高杯.png",
+      "source": "/workspace/tea/模板六-水彩手绘单页茶饮海报/衍生版本/日光实拍步骤手账风/茉莉绿茶/试稿-v3/图片/04-成品窗边细高杯.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2129219,
+      "sha256": "e08e208d3c3d3435cbe7ceec358f6581918169f1f056d517a8e69b756a5725a2"
+    }
+  ],
+  "process_artifacts": [],
+  "visual_review": [
+    "封面五格从完成茶汤开始，不重复焖泡过滤加基底冰",
+    "第三页六格从称取茶叶到完成批量茶汤，无雪克和装杯步骤",
+    "50克、1250克70℃、盖后计时10分钟、750克冰及重量比保留",
+    "第02和04页与v3原字节一致，窗边无logo细高杯未变"
+  ],
+  "change": "第01页从完成茶汤到装杯出品；第03页从称茶到完成茶汤，食材及窗边细高杯页沿用v3",
+  "parent_template": "模板六-水彩手绘单页茶饮海报",
+  "classification_date": "2026-10-16",
+  "page_flows": {
+    "cover": [
+      "完成茶汤",
+      "倒入茶汤",
+      "加入加料",
+      "双手雪克",
+      "装杯出品"
+    ],
+    "page3": [
+      "称取茶叶",
+      "加入热水",
+      "盖上焖泡",
+      "过滤茶渣",
+      "加冰搅匀",
+      "完成茶汤"
+    ]
+  }
+}
