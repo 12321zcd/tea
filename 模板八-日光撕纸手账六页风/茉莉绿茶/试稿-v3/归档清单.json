@@ -1,0 +1,119 @@
+{
+  "collection": "模板八",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v3",
+  "saved_date": "2026-10-18",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求纳入GitHub版本保存",
+  "page_count": 6,
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "已过滤茶汤",
+      "糖浆",
+      "绿皮香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "visual_reference": "用户上传视频六页的完整提取帧，用于版式、光线与纸条",
+  "character_reference": "模板三-清新果茶漫画教程风/茉莉绿茶/试稿-v4/图片/02-食材准备.png",
+  "character": "用户指定模板三黑色厨师怪兽：圆润漫画、白厨师帽白围裙，大白眼、短圆吻、白锯齿牙、背三角棘",
+  "artifacts": [
+    {
+      "file": "图片/01-封面.png",
+      "source": "/workspace/tea/模板八-日光撕纸手账六页风/茉莉绿茶/试稿-v2/图片/01-封面.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2724189,
+      "sha256": "7908ab0f9ff11f6775c3fcff33a26511651c272f4a2847d849ae131c1dffdbcc"
+    },
+    {
+      "file": "图片/02-材料.png",
+      "source": "/workspace/tea/模板八-日光撕纸手账六页风/茉莉绿茶/试稿-v2/图片/02-材料.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2596779,
+      "sha256": "71de31644f6ea3089491d9f2b5e8bf5a03a52f9d415e82a4b9be824dc8c3b7ac"
+    },
+    {
+      "file": "图片/03-六步茶汤制作.png",
+      "source": "/workspace/generated_images/exec-18d7ccf5-555f-44d7-a2bc-83d8f27b256e.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2842515,
+      "sha256": "0823ecf2dc19414c7e84116ff0d271fee5c4fb3fe66fbf793863b85612a79f38"
+    },
+    {
+      "file": "图片/04-雪克出品.png",
+      "source": "/workspace/generated_images/exec-3612e04b-f82d-4261-ac18-c44cce2f5dd9.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2527417,
+      "sha256": "ed5a926a5d58f1fcc3ae65cbabfba480f57ffc1be5138b0a301bcf5a477dd087"
+    },
+    {
+      "file": "图片/05-口感说明.png",
+      "source": "/workspace/generated_images/exec-9c1bba5e-bc28-426b-91b5-39b2b5d0f40b.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2417094,
+      "sha256": "89d7026e6b7373170a16f1d14a862c1c51d4f4280e134eca1f15cb2458ebae91"
+    },
+    {
+      "file": "图片/06-调整建议.png",
+      "source": "/workspace/tea/模板八-日光撕纸手账六页风/茉莉绿茶/试稿-v2/图片/06-调整建议.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2605202,
+      "sha256": "ada215e0081035b974ddbb5f7aafa41ecd1c74fdc0eb7dd2f7e38e9130826781"
+    }
+  ],
+  "process_artifacts": [],
+  "image_bytes_preserved": true,
+  "scope": "第03改六步茶汤制作；雪克页移至04并补倒糖浆，口感页移至05，页码对应调整；01/02/06原字节沿用v2",
+  "cover_labels": [
+    "70℃热水",
+    "盖后焖泡10分钟",
+    "先滤再加冰"
+  ],
+  "page3_groups": [
+    "称取茶叶",
+    "加入热水",
+    "盖上焖泡",
+    "过滤茶渣",
+    "加冰搅匀",
+    "完成茶汤"
+  ],
+  "visual_review": [
+    "第03为2列3行连续六格，止于茶汤完成，50克、1250克70℃、10分钟和750克基底冰保留",
+    "第04第一卡照片清楚呈现糖浆由小量杯倒入敞口雪克壶，壶内没有独立冰",
+    "雪克页4/6、口感页5/6，六页阅读顺序一致",
+    "第01、02、06图片SHA-256与v2相同，历史v1/v2保留"
+  ],
+  "template": "模板八-日光撕纸手账六页风",
+  "classification_date": "2026-10-18",
+  "page4_groups": [
+    "茶汤与加料入壶，明确倒入糖浆",
+    "盖紧双手摇匀",
+    "倒入成品杯"
+  ],
+  "page_order": [
+    "封面",
+    "材料",
+    "六步茶汤制作",
+    "雪克出品",
+    "口感说明",
+    "调整建议"
+  ]
+}
