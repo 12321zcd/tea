@@ -1,0 +1,82 @@
+{
+  "saved_date": "2026-10-18",
+  "timezone": "Asia/Shanghai",
+  "source": {
+    "file": "视频原文件/微信视频2026-10-18_011621_194.mp4",
+    "upload_id": "file_000000008d6c81fb8f581f0b712167fc",
+    "bytes": 1481255,
+    "sha256": "46fdbe027e1cc68e1ca458a0953e643e3cff08208c42456b7849990ec566cc65",
+    "duration_seconds": 29.666667,
+    "width": 720,
+    "height": 960,
+    "fps": 30,
+    "bytes_preserved": true
+  },
+  "method": "ffmpeg在各页静止时提取完整视频帧为PNG，无裁切、放大、重绘或去水印；不是原帖六张图片的原始文件",
+  "page_count": 6,
+  "excluded": "视频约26秒后的账号片尾，不计入六页",
+  "status": "参考视频与提取帧按用户要求纳入GitHub版本保存",
+  "frames": [
+    {
+      "page": 1,
+      "title": "封面",
+      "sample_time_seconds": 1,
+      "file": "提取画面/01-封面.png",
+      "width": 720,
+      "height": 960,
+      "bytes": 1335361,
+      "sha256": "5a543222f9343057c674db1935e23ab4c42a5ddd03df62c6fb220870a2f0e966"
+    },
+    {
+      "page": 2,
+      "title": "材料",
+      "sample_time_seconds": 5,
+      "file": "提取画面/02-材料.png",
+      "width": 720,
+      "height": 960,
+      "bytes": 1095959,
+      "sha256": "7a0894cb458efb7af7bac5c2ee9fa844ea68de829189a63b8ad79cd1b250001d"
+    },
+    {
+      "page": 3,
+      "title": "四步制作",
+      "sample_time_seconds": 11,
+      "file": "提取画面/03-四步制作.png",
+      "width": 720,
+      "height": 960,
+      "bytes": 1366021,
+      "sha256": "491893d12e523e1c6c6c54c0bbae5b3d5dee7bca60b5d70ca56efaec186e4e0a"
+    },
+    {
+      "page": 4,
+      "title": "口感说明",
+      "sample_time_seconds": 15,
+      "file": "提取画面/04-口感说明.png",
+      "width": 720,
+      "height": 960,
+      "bytes": 1335104,
+      "sha256": "d34983090bbf7980396f7d7ee19cffe58bb327d6b306c8cfe4eda0151c33f4ae"
+    },
+    {
+      "page": 5,
+      "title": "三个避坑点",
+      "sample_time_seconds": 19,
+      "file": "提取画面/05-三个避坑点.png",
+      "width": 720,
+      "height": 960,
+      "bytes": 1248457,
+      "sha256": "105c67a8add1755a3503e5440eb2561bc37b0dc3f695badcc71523bcd0f88649"
+    },
+    {
+      "page": 6,
+      "title": "调整建议",
+      "sample_time_seconds": 23,
+      "file": "提取画面/06-调整建议.png",
+      "width": 720,
+      "height": 960,
+      "bytes": 1157164,
+      "sha256": "4e34041de7adb5eca9d3a3a0bfc838c26d750edc07049fa10d33935e0159142f"
+    }
+  ],
+  "derived_template": "模板八-日光撕纸手账六页风"
+}

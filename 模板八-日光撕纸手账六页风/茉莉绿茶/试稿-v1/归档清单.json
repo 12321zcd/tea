@@ -1,0 +1,138 @@
+{
+  "collection": "模板八",
+  "theme": "茉莉绿茶",
+  "version": "试稿-v1",
+  "saved_date": "2026-10-18",
+  "timezone": "Asia/Shanghai",
+  "status": "按用户要求纳入GitHub版本保存",
+  "page_count": 6,
+  "recipe": {
+    "tea_g": 50,
+    "hot_water_g": 1250,
+    "hot_water_temperature_c": 70,
+    "covered_steep_minutes": 10,
+    "base_ice_g": 750,
+    "weight_ratio": [
+      1,
+      25,
+      15
+    ],
+    "shake_ingredients": [
+      "已过滤茶汤",
+      "糖浆",
+      "绿皮香水柠檬片"
+    ],
+    "single_cup_tea_quantity": null,
+    "syrup_quantity": null,
+    "lemon_quantity": null
+  },
+  "visual_reference": "用户上传视频六页的完整提取帧，用于版式、光线与纸条",
+  "character_reference": "模板三-清新果茶漫画教程风/茉莉绿茶/试稿-v4/图片/02-食材准备.png",
+  "character": "用户指定模板三黑色厨师怪兽：圆润漫画、白厨师帽白围裙，大白眼、短圆吻、白锯齿牙、背三角棘",
+  "artifacts": [
+    {
+      "file": "图片/01-封面.png",
+      "source": "/workspace/generated_images/exec-3baf1ebf-2177-4514-96a2-f75cf9295362.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2724189,
+      "sha256": "7908ab0f9ff11f6775c3fcff33a26511651c272f4a2847d849ae131c1dffdbcc"
+    },
+    {
+      "file": "图片/02-材料.png",
+      "source": "/workspace/generated_images/exec-2e04ab44-87b2-4082-b30a-b61781b8bd07.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2596779,
+      "sha256": "71de31644f6ea3089491d9f2b5e8bf5a03a52f9d415e82a4b9be824dc8c3b7ac"
+    },
+    {
+      "file": "图片/03-四组制作.png",
+      "source": "/workspace/generated_images/exec-1f351319-979a-41ba-8878-d2dece5b576e.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2701005,
+      "sha256": "b68472fe5f61d602af2668154c2cbb3dd972487ba7590189818813192a6f822c"
+    },
+    {
+      "file": "图片/04-口感说明.png",
+      "source": "/workspace/generated_images/exec-fc90398f-4623-4ae9-9d3b-7b32acdc5f65.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2478028,
+      "sha256": "3201a98a75af255513ac1d60aebfe8c29ef9194a793efdd8a865c07da31be33f"
+    },
+    {
+      "file": "图片/05-三个关键点.png",
+      "source": "/workspace/generated_images/exec-11f0e598-0c2e-4bcb-886a-95b4c67ed14a.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2844609,
+      "sha256": "a7710c3f79184ccae42a06e6a672a25043bd12edb604bfb00f717db65803cd3a"
+    },
+    {
+      "file": "图片/06-调整建议.png",
+      "source": "/workspace/generated_images/exec-51571869-09ab-4908-a8f9-7a2ff2529095.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2605202,
+      "sha256": "ada215e0081035b974ddbb5f7aafa41ecd1c74fdc0eb7dd2f7e38e9130826781"
+    }
+  ],
+  "process_artifacts": [
+    {
+      "file": "过程稿/02-材料-人物改怪兽前.png",
+      "source": "/workspace/generated_images/exec-49b3c560-4ed5-48b5-adaf-ef134690cdc2.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2796977,
+      "sha256": "d3ca66264460800d30d7bd8e5c9a4db9cf613f847d960c8da90d730b3036fb29"
+    },
+    {
+      "file": "过程稿/03-制作-雪克壶冰块清理前.png",
+      "source": "/workspace/generated_images/exec-ecc6229c-7fee-4760-a037-1eedfe5fb78c.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2872143,
+      "sha256": "286269916316285d008a4595f63d499a753f9174af890bb68ccc88f3483c24d2"
+    },
+    {
+      "file": "过程稿/04-口感-薄荷清理前.png",
+      "source": "/workspace/generated_images/exec-fee93e69-4525-44b1-9035-e049f144bfd8.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2739649,
+      "sha256": "078db28895ea2af070097ab0a9e53d8380390bcb501a7ef865d0356adad12750"
+    },
+    {
+      "file": "过程稿/04-口感-去薄荷后恢复便签前.png",
+      "source": "/workspace/generated_images/exec-1b6952b7-cee2-42aa-b88a-c0382ff46bd3.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 2555890,
+      "sha256": "058be5a2c64ef8cbb881633440fb34fcd926f60a6ad89d22fe7dcb251465a7f6"
+    }
+  ],
+  "image_bytes_preserved": true,
+  "scope": "模板八六页试稿，现有模板一至七保留",
+  "cover_labels": [
+    "70℃热水",
+    "盖后焖泡10分钟",
+    "先滤再加冰"
+  ],
+  "page3_groups": [
+    "称茶焖泡",
+    "过滤茶渣",
+    "加冰搅匀",
+    "雪克出品"
+  ],
+  "visual_review": [
+    "已逐页查看六张怪兽版，页码和人物均对应，女孩不再出现于当前页面",
+    "材料页清单区分50克茶叶、1250克70℃热水和750克批量基底冰，出品柠檬糖浆及单杯用量另定",
+    "制作页四组完整，雪克壶内独立冰块已清理；基底搅拌壶和最终饮品杯原有冰保留",
+    "口感页左下薄荷已清理，小提示纸条已恢复",
+    "未保留原作者账号和平台水印，图片与校验清单逐字节匹配"
+  ],
+  "template": "模板八-日光撕纸手账六页风",
+  "classification_date": "2026-10-18"
+}
